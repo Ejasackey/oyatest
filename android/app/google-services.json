@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769141779296",
+    "project_id": "oyatest-596ff",
+    "storage_bucket": "oyatest-596ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769141779296:android:0402ec27c3f28c4ad78c05",
+        "android_client_info": {
+          "package_name": "com.ejastech.oyatest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ycVULJwtBzfpCGnzuPLCABfoNFl-YCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
